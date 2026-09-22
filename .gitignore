@@ -1,0 +1,7 @@
+# Segredos - nunca versionar valores reais
+*-secret-real.yaml
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
